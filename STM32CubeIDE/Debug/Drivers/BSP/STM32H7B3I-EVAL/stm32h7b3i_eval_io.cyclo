@@ -1,0 +1,13 @@
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_io.c:106:9:BSP_IOEXPANDER_Init	11
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_io.c:143:9:BSP_IOEXPANDER_DeInit	5
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_io.c:229:9:BSP_IO_DeInit	3
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_io.c:257:9:BSP_IO_GetIT	3
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_io.c:274:9:BSP_IO_ClearIT	3
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_io.c:303:9:BSP_IO_WritePin	3
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_io.c:329:9:BSP_IO_ReadPin	3
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_io.c:347:9:BSP_IO_TogglePin	7
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_io.c:390:6:BSP_IOEXPANDER_ITConfig	2
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_io.c:179:9:BSP_IO_Init	8
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_io.c:421:6:BSP_IO_IRQHandler	1
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_io.c:434:13:BSP_IO_Callback	1
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_io.c:507:13:IO_EXTI_Callback	1

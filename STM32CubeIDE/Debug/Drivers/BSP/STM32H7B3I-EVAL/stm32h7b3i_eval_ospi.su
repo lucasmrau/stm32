@@ -1,0 +1,17 @@
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:1122:16:OSPI_NOR_EnterSOPIMode.constprop	32	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:1057:16:OSPI_NOR_EnterDOPIMode.constprop	32	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:246:26:MX_OSPI_NOR_Init	0	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:359:9:BSP_OSPI_NOR_Read	32	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:395:9:BSP_OSPI_NOR_Write	40	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:483:9:BSP_OSPI_NOR_Erase_Block	24	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:518:9:BSP_OSPI_NOR_Erase_Chip	8	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:553:9:BSP_OSPI_NOR_GetStatus	16	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:598:9:BSP_OSPI_NOR_GetInfo	8	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:621:9:BSP_OSPI_NOR_EnableMemoryMappedMode	8	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:663:9:BSP_OSPI_NOR_DisableMemoryMappedMode	8	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:197:9:BSP_OSPI_NOR_DeInit	8	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:697:9:BSP_OSPI_NOR_ReadID	8	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:727:9:BSP_OSPI_NOR_ConfigFlash	40	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:118:9:BSP_OSPI_NOR_Init	144	static,ignoring_inline_asm
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:805:9:BSP_OSPI_NOR_SuspendErase	8	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ospi.c:840:9:BSP_OSPI_NOR_ResumeErase	8	static

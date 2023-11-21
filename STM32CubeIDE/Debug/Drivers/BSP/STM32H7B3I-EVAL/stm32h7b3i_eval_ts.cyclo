@@ -1,0 +1,14 @@
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ts.c:127:9:BSP_TS_Init	10
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ts.c:180:9:BSP_TS_DeInit	2
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ts.c:205:9:BSP_TS_GetCapabilities	2
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ts.c:226:9:BSP_TS_EnableIT	5
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ts.c:276:9:BSP_TS_DisableIT	2
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ts.c:308:13:BSP_TS_Callback	1
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ts.c:672:13:TS_EXTI_Callback	1
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ts.c:323:9:BSP_TS_GetState	11
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ts.c:409:9:BSP_TS_Get_MultiTouchState	12
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ts.c:507:9:BSP_TS_GestureConfig	2
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ts.c:532:9:BSP_TS_GetGestureId	10
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ts.c:587:9:BSP_TS_Set_Orientation	1
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ts.c:599:9:BSP_TS_Get_Orientation	1
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_ts.c:610:6:BSP_TS_IRQHandler	1

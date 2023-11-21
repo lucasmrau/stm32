@@ -1,0 +1,9 @@
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_bus.c:239:9:BSP_I2C2_DeInit	8	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_bus.c:267:26:MX_I2C2_Init	8	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_bus.c:188:9:BSP_I2C2_Init	112	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_bus.c:313:9:BSP_I2C2_WriteReg	24	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_bus.c:351:9:BSP_I2C2_ReadReg	24	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_bus.c:389:9:BSP_I2C2_WriteReg16	24	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_bus.c:427:9:BSP_I2C2_ReadReg16	24	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_bus.c:464:9:BSP_I2C2_IsReady	8	static
+C:/Users/andre/Documents/Programming/STM/CounterTest/Drivers/BSP/STM32H7B3I-EVAL/stm32h7b3i_eval_bus.c:487:9:BSP_GetTick	0	static
